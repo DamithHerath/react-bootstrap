@@ -19,7 +19,8 @@
 # [1.0.0-beta.11](https://github.com/react-bootstrap/react-bootstrap/compare/v1.0.0-beta.10...v1.0.0-beta.11) (2019-08-09)
 
 
-### Bug Fixes
+### Bug Fixes 
+### Add Change
 
 * **AbstractNav:** allow passed in refs to be properly forwarded ([#4031](https://github.com/react-bootstrap/react-bootstrap/issues/4031)) ([bda567f](https://github.com/react-bootstrap/react-bootstrap/commit/bda567f))
 * Fix DropdownToggleProps ([686629d](https://github.com/react-bootstrap/react-bootstrap/commit/686629d))
